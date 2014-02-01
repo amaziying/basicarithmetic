@@ -1,5 +1,3 @@
-// SYDE 121 Digital Computation
-// Assignment Lab 04 Task 4
 // This program is a math game for elementary school students.
 //
 // program by Ziying Zhang
